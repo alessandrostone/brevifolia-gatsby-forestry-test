@@ -35,6 +35,14 @@ fields:
   label: hero image
   description: Enter hero image for blog post here
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
+- name: ddd
+  type: blocks
+  label: ddd
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: ssss
 pages:
 - content/posts/an-essay-on-walking.md
 - content/posts/ne-te-quaesiveris-extra.md
